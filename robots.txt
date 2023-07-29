@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pranavs702.github.io/al-folio/sitemap.xml
+Sitemap: https://pranavs702.github.io/sitemap.xml
