@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: You can find my CV <a href='/cv'>here</a> or through the menu above.
 
 profile:
   align: right
