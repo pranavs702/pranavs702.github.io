@@ -1,4 +1,4 @@
-- title: General Information
+-:recover title: General Information
   type: map
   contents:
     - name: Full Name
@@ -41,11 +41,20 @@
       year: May - August 2022
       description:
         - Worked on internal APIs
+    
+- title: Service:
+  type: time_table
+  contents:
     - title: Co-Founder/Organizer
       institution: BadgerHacks Hackathon @ UW-Madison
       year: January - March 2021
       description:
         - Organized Hackathon
+    - title: ACM Peer Mentor
+      institution: ACM @ UIUC
+      year: October 2023 - Present
+      description:
+        - Help two freshman with planning for future goals
 
 # - title: Open Source Projects
 #   type: time_table
@@ -68,18 +77,18 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Machine Learning.
+    - title: Machine Learning
       items:
-        - Generative Models.
-        - Imitation Learning.
-    - title: Reinforcement Learning.
+        - Generative Models
+        - Imitation Learning
+    - title: Reinforcement Learning
       items:
-        - Deep Reinforcement Learning.
-    - title: Robotics.
+        - Deep Reinforcement Learning
+    - title: Robotics
       items:
-        - Assistive Robotics.
-        - Navigation.
-        - Object Manipulation.
+        - Assistive Robotics
+        - Navigation
+        - Object Manipulation
 
 - title: Other Interests
   type: list
