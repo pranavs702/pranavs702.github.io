@@ -1,4 +1,4 @@
--:recover title: General Information
+- title: General Information
   type: map
   contents:
     - name: Full Name
@@ -41,8 +41,8 @@
       year: May - August 2022
       description:
         - Worked on internal APIs
-    
-- title: Service:
+
+- title: Service
   type: time_table
   contents:
     - title: Co-Founder/Organizer
@@ -50,11 +50,6 @@
       year: January - March 2021
       description:
         - Organized Hackathon
-    - title: ACM Peer Mentor
-      institution: ACM @ UIUC
-      year: October 2023 - Present
-      description:
-        - Help two freshman with planning for future goals
 
 # - title: Open Source Projects
 #   type: time_table
